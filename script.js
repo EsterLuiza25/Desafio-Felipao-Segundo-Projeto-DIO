@@ -13,7 +13,7 @@ function nivelPartidas(vitorias) {
     } else if (vitorias <= 100) {
         return "Lendário";
     } else {
-        return "Imortal"; 
+        return "Imortal";  
     }
 }
 
